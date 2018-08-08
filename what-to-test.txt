@@ -1,7 +1,0 @@
-get plain properties:
-
-curl http://localhost:8888/intershop-preprod.properties
-curl http://localhost:8888/intershop-preprod.yaml
-curl http://localhost:8888/intershop-preprod.json
-
-curl http://localhost:8888/intershop-development.json

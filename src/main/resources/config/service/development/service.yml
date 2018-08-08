@@ -1,4 +1,3 @@
 shop:
-  name: Development Shop
   location: http://localhost
 token: snoken

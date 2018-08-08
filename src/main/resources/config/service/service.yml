@@ -1,3 +1,6 @@
 global:
   settings:
     some-setting: enabled
+shop:
+  name: Global default
+

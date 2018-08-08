@@ -1,4 +1,4 @@
-package com.misterspex.service.configserver;
+package net.uebel.thomas.boot.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
