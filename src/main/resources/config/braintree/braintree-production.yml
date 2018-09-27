@@ -1,0 +1,5 @@
+payment:
+  stage: production
+  credentials:
+      user: braintree-prod-user
+      pass: braintree-prod-pass

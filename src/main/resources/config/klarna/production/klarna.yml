@@ -1,0 +1,5 @@
+payment:
+  stage: production
+  credentials:
+    user: prod-user
+    pass: prod-pass

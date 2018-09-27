@@ -1,0 +1,8 @@
+payment:
+  settings:
+    nav-id: 11
+    name: "MSX QA BRAINTREE"
+  stage: qa
+  credentials:
+      user: braintree-qa-user
+      pass: braintree-qa-pass

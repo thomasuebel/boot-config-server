@@ -1,0 +1,5 @@
+payment:
+  stage: development
+  credentials:
+      user: braintree-dev-user
+      pass: braintree-dev-pass

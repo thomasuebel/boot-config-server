@@ -1,0 +1,5 @@
+payment:
+  stage: development
+  credentials:
+      user: dev-user
+      pass: dev-pass
